@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Apoorv Yadav
 - 👀 I’m interested in computers, games, long walks, travels
-- 🌱 I’m currently learning graphene, django, AWS
-- 💞️ I’m looking to collaborate on django and graphene
+- 🌱 I’m currently a masters student at SUNY Bing
+- 💞️ I’m looking for new grad role 2024
 - 📫 connect with me via mail: apoorvyadav1111@gmail.com
 
 <!---
