@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers, games, long walks, travels
 - 🌱 I’m currently a masters student at SUNY Bing
 - 💞️ I’m looking for new grad role 2024
-- 📫 connect with me via mail: apoorvyadav1111@gmail.com
+- 📫 connect with me via https://www.linkedin.com/in/yadavapoorv/
 
 <!---
 apoorvyadav1111/apoorvyadav1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
